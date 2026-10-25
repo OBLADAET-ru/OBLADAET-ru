@@ -15,8 +15,8 @@
   <!-- Иконки языков программирования -->
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js" alt="languages" />
   <br>
-  <!-- Иконки инфраструктуры и инструментов -->
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github" alt="tools" />
+  <!-- Иконки инфраструктуры и инструментов (только Linux, Windows, GitHub) -->
+  <img src="https://skillicons.dev/icons?i=linux,windows,github" alt="tools" />
 </p>
 
 **[ + ] Дополнительно**
