@@ -1,16 +1,29 @@
-## Hi there 👋
+# OBLADAET-ru > _
 
-<!--
-**OBLADAET-ru/OBLADAET-ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Intern system administrator / programmer, technical equipment adjuster of the 3rd category
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[ + ] Обо мне**
+*   > Работаю с техническим оборудованием и его настройкой (3-й разряд).
+*   > Занимаюсь системным администрированием и разработкой.
+*   > Сейчас активно прокачиваю свои навыки в программировании и инфраструктуре.
+*   > Люблю разбираться в том, как всё работает — от микросхем до кода.
+
+**[ + ] Мой стек технологий**
+<p align="left">
+  <!-- Иконки языков программирования -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js" alt="languages" />
+  <br>
+  <!-- Иконки инфраструктуры и инструментов -->
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github" alt="tools" />
+</p>
+
+**[ + ] Дополнительно**
+*   > Работаю с платформой **1С**.
+*   > Постоянно изучаю новое и работаю над собой.
+
+---
+<p align="center">
+  <code>// I'm improving, working on myself, and I love the unknown</code>
+</p>
